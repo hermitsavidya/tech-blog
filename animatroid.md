@@ -15,4 +15,3 @@ One step at a time, using a modular design method.
 3. One segment with two legs.
 
 
-
