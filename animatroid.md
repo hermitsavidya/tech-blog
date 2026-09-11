@@ -14,4 +14,9 @@ One step at a time, using a modular design method.
 2. Antenna: Mechanical antenna for vibratory sensing.
 3. One segment with two legs.
 
+## Projects
 
+1. **Heptapod**
+2. **Aerial Manipulator**
+3. **Antenna**
+4. 
