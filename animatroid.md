@@ -19,4 +19,4 @@ One step at a time, using a modular design method.
 1. **Heptapod**
 2. **Aerial Manipulator**
 3. **Antenna**
-4. 
+4. **Actuator**
