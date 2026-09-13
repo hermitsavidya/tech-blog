@@ -18,8 +18,9 @@ One step at a time, using a modular design method.
 
 | Category | Project Name | Synopsis |
 | --- | --- | --- |
-| Animatroid | Row 1, Col 2 | Row 1, Col 3 |
+| Animatroid | AT89S52 | A neural-network-controlled, microcontroller-based, multilimbed robot with DC motors |
 | Animatroid | Row 2, Col 2 | Row 2, Col 3 |
+| Robotics Research | Aerial manipulator | Drone with a robotic arm and gripper |
 
 
 1. **Heptapod**
