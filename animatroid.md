@@ -13,10 +13,12 @@ the assistance of artificial intelligence. Meanwhile, a generative design tool, 
 
 ## Projects
 
+### Overview
+
 | Category | Project Name | Synopsis |
 | --- | --- | --- |
 | Animatroid | Capra Ibex | A neural-network-controlled, microcontroller-based (AT89S52), multilimbed robot with DC motors |
-| Animatroid | Row 2, Col 2 | Row 2, Col 3 |
+| Animatroid | Servo | 3D-printed robot based on servomotors|
 | Robotics Research | Aerial manipulator | Drone with a robotic arm and gripper |
 | Robotics Research | Heptapod | Seven-armed robot |
 | Robotics Research | Biped | Bipedal robot for material handling |
@@ -24,3 +26,9 @@ the assistance of artificial intelligence. Meanwhile, a generative design tool, 
 | Robotics Research | Antenna | Vibration-based continuum robot antenna |
 | Robotics Research | EgoDesign | Automatic design software for the kinematics of linkages |
 | Robotics Research | Quadfin | A quadrupedal robot with fins for amphibious mobility |
+
+### Capra Ibex
+
+1. Use the AT89S52 as the main microcontroller;
+2. Use additive and modular design methods;
+3. Place the motors and gears together as a multi-DOF reducer, forming an integrated leg.
