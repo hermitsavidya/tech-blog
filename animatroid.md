@@ -31,4 +31,5 @@ the assistance of artificial intelligence. Meanwhile, a generative design tool, 
 
 1. Use the AT89S52 as the main microcontroller;
 2. Use additive and modular design methods;
-3. Place the motors and gears together as a multi-DOF reducer, forming an integrated leg.
+3. Place the motors and gears together as a multi-DOF reducer, forming an integrated leg;
+4. Each limb has four degrees of freedom.
