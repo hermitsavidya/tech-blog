@@ -1,4 +1,4 @@
-# Animatroid
+# Animatroid design
 
 ## Introduction
 
@@ -15,6 +15,12 @@ One step at a time, using a modular design method.
 3. One segment with two legs.
 
 ## Projects
+
+| Category | Project Name | Synopsis |
+| --- | --- | --- |
+| Animatroid | Row 1, Col 2 | Row 1, Col 3 |
+| Animatroid | Row 2, Col 2 | Row 2, Col 3 |
+
 
 1. **Heptapod**
 2. **Aerial Manipulator**
