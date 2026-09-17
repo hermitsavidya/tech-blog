@@ -18,7 +18,7 @@ the assistance of artificial intelligence. Meanwhile, a generative design tool, 
 | Category | Project Name | Synopsis |
 | --- | --- | --- |
 | Animatroid | Capra Ibex | A neural-network-controlled, microcontroller-based (AT89S52), multilimbed robot with DC motors |
-| Animatroid | Servo | 3D-printed robot based on servomotors|
+| Animatroid | AI Mobile | A mobile robotic manipulator controlled by a vision-action large language model |
 | Robotics Research | Aerial manipulator | Drone with a robotic arm and gripper |
 | Robotics Research | Heptapod | Seven-armed robot |
 | Robotics Research | Biped | Bipedal robot for material handling |
